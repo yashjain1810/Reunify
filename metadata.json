@@ -1,0 +1,7 @@
+{
+  "name": "Reunify",
+  "description": "A heartfelt photo editor that brings your childhood self and adult self together in a single, touching moment. Upload an old and a recent photo to see your two versions embrace.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
